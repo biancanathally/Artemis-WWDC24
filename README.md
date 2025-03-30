@@ -17,3 +17,7 @@ Splash            |  Home
 Rocket            | Trajectory
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hibianca/FaceReality/assets/103222620/32d48c49-8a40-477d-b6e1-308650b8d555" alt="rocket" width="400" height="534"> | <img src="https://github.com/hibianca/FaceReality/assets/103222620/33994e15-71b0-430a-a3e4-eb15edcdecfb" alt="trajectory" width="400" height="534">
+
+## Download 📲
+
+[<img src="https://github.com/user-attachments/assets/62fc33f5-0760-4910-9502-7ee47c62b371" alt="download" width="200">](https://apps.apple.com/br/app/artemis-iii/id6480529064)
