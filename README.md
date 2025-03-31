@@ -10,13 +10,16 @@ This project takes the player on an exciting journey towards lunar exploration, 
 
 ## Screenshots 📸
 
-Splash            |  Home
-:-------------------------:|:-------------------------:
-<img src="https://github.com/hibianca/FaceReality/assets/103222620/0f4dcd22-3d0a-4161-8d22-20e0442af650" alt="home" width="400" height="534"> | <img src="https://github.com/hibianca/FaceReality/assets/103222620/0ce52ed3-dbc4-4416-8df1-a7b30e492bc4" alt="home" width="400" height="534">
+| Splash | Home |
+|--------|------|
+<img src="https://github.com/hibianca/FaceReality/assets/103222620/0f4dcd22-3d0a-4161-8d22-20e0442af650" alt="home" width="400"> | <img src="https://github.com/hibianca/FaceReality/assets/103222620/0ce52ed3-dbc4-4416-8df1-a7b30e492bc4" alt="home" width="400">
 
-Rocket            | Trajectory
-:-------------------------:|:-------------------------:
-<img src="https://github.com/hibianca/FaceReality/assets/103222620/32d48c49-8a40-477d-b6e1-308650b8d555" alt="rocket" width="400" height="534"> | <img src="https://github.com/hibianca/FaceReality/assets/103222620/33994e15-71b0-430a-a3e4-eb15edcdecfb" alt="trajectory" width="400" height="534">
+| Rocket | Trajectory |
+|--------|------|
+<img src="https://github.com/hibianca/FaceReality/assets/103222620/32d48c49-8a40-477d-b6e1-308650b8d555" alt="rocket" width="400"> | <img src="https://github.com/hibianca/FaceReality/assets/103222620/33994e15-71b0-430a-a3e4-eb15edcdecfb" alt="trajectory" width="400">
+
+## Development & Frameworks
+The project was developed in SpriteKit, SwiftUI and UIKit. Additionally, I used AVFoundation for sound effects.
 
 ## Download 📲
 
